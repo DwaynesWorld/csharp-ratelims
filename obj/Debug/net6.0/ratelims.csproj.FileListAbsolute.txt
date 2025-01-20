@@ -1,0 +1,17 @@
+/Users/kt/dev/source/ratelims/bin/Debug/net6.0/ratelims
+/Users/kt/dev/source/ratelims/bin/Debug/net6.0/ratelims.deps.json
+/Users/kt/dev/source/ratelims/bin/Debug/net6.0/ratelims.runtimeconfig.json
+/Users/kt/dev/source/ratelims/bin/Debug/net6.0/ratelims.dll
+/Users/kt/dev/source/ratelims/bin/Debug/net6.0/ratelims.pdb
+/Users/kt/dev/source/ratelims/bin/Debug/net6.0/System.Threading.RateLimiting.dll
+/Users/kt/dev/source/ratelims/obj/Debug/net6.0/ratelims.csproj.AssemblyReference.cache
+/Users/kt/dev/source/ratelims/obj/Debug/net6.0/ratelims.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kt/dev/source/ratelims/obj/Debug/net6.0/ratelims.AssemblyInfoInputs.cache
+/Users/kt/dev/source/ratelims/obj/Debug/net6.0/ratelims.AssemblyInfo.cs
+/Users/kt/dev/source/ratelims/obj/Debug/net6.0/ratelims.csproj.CoreCompileInputs.cache
+/Users/kt/dev/source/ratelims/obj/Debug/net6.0/ratelims.csproj.Up2Date
+/Users/kt/dev/source/ratelims/obj/Debug/net6.0/ratelims.dll
+/Users/kt/dev/source/ratelims/obj/Debug/net6.0/refint/ratelims.dll
+/Users/kt/dev/source/ratelims/obj/Debug/net6.0/ratelims.pdb
+/Users/kt/dev/source/ratelims/obj/Debug/net6.0/ratelims.genruntimeconfig.cache
+/Users/kt/dev/source/ratelims/obj/Debug/net6.0/ref/ratelims.dll
